@@ -16,7 +16,7 @@ export const adminService = "http://localhost:5006";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <GoogleOAuthProvider clientId="596268404302-kktqpqnl8t8r3fc33rb4clslfj8t3msc.apps.googleusercontent.com">
+    <GoogleOAuthProvider clientId="2842023046-dvo3r3kbpn6jprntmqj0to7g11tm8l7e.apps.googleusercontent.com">
       <AppProvider>
         <SocketProvider>
           <App />
